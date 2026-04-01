@@ -9,5 +9,6 @@ Full windows executable file for a local GUI to analyse images is avaiable at my
 
 <br>
 
-<img width="638" height="629" alt="image" src="https://github.com/user-attachments/assets/5d169d7e-1f8f-4774-bea7-0bc9f948803c" />
+<img width="922" height="901" alt="image" src="https://github.com/user-attachments/assets/6be9ff8b-fc54-4abf-a142-069a0f6576e5" />
+
 
