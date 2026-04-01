@@ -7,10 +7,7 @@ takes Heidelberg DICOM export files and opens a heyex style viewer allowing for 
 Full windows executable file for a local GUI to analyse images is avaiable at my website https://amanjosan.netlify.app/
 
 
-<br>
 
-
-        <img width="573" height="443" alt="image" src="https://github.com/user-attachments/assets/c5f1621b-562b-4cf4-bf1e-193240fa85d0" />
 
 <br>
 
