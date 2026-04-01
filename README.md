@@ -5,7 +5,7 @@ Also have included some image enhancement features to aid feature selection in c
 
 <br>
 
-Full windows executable file for a local GUI to analyse images is avaiable at my website https://amanjosan.netlify.app/
+Full windows executable file for a local GUI to analyse images. See Releases in the right sidebar  --->
 
 
 <br>
