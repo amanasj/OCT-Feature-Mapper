@@ -1,0 +1,5 @@
+pydicom
+opencv-python
+numpy
+shapely
+pyinstaller
