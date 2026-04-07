@@ -1,5 +1,11 @@
 # OCT-Feature-Mapper
-takes Heidelberg DICOM export files and opens a heyex style viewer allowing for bscan to enface marking.  Several regions can be separately marked allowing for EZ area mapping, multiple atrophy region mapping, detailed blood vessel mapping etc...
+
+v0.93 - 07/04/2026 - updated to add live move position in enface view, new GUI and experimentation with semi-automatic co-registration of multimodal imaging after features marked on enface view.
+
+<br>
+
+
+Takes Heidelberg DICOM export files and opens a heyex style viewer allowing for bscan to enface marking.  Several regions can be separately marked allowing for EZ area mapping, multiple atrophy region mapping, detailed blood vessel mapping etc...
 Also have included some image enhancement features to aid feature selection in cases of difficult to see features.
 
 
