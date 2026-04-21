@@ -2,7 +2,7 @@
 
 <br>
 
-v0.96 - 21/04/2026 - improved GUI, ability to add point and line features directly on the enface image. Added polygon centroid measurements and anatomical fovea marking so distance to feature (e.g. eccentric fixation or atrophic region or centre of EZ) position and distance can be determined.
+v0.99 - 21/04/2026 - improved GUI, ability to add point and line features directly on the enface image. Added polygon centroid measurements and anatomical fovea marking so distance to feature (e.g. eccentric fixation or atrophic region or centre of EZ) position and distance can be determined.
 
 <br>
 
