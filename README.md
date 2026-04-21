@@ -32,6 +32,6 @@ Full windows executable file for a local GUI to analyse images. See Releases in 
 
 <br>
 
-<img width="622" height="601" alt="image" src="https://github.com/user-attachments/assets/6be9ff8b-fc54-4abf-a142-069a0f6576e5" />
 
+<img width="622" height="601" alt="feature_overlay" src="https://github.com/user-attachments/assets/5ce93992-7aa6-457b-a659-7960224239e0" />
 
