@@ -16,7 +16,7 @@ v0.93 - 07/04/2026 - updated to add live move position in enface view, new GUI a
 <br>
 
 
-Takes Heidelberg DICOM export files and opens a heyex style viewer allowing for bscan to enface marking.  Several regions can be separately marked allowing for EZ area mapping, multiple atrophy region mapping, detailed blood vessel mapping etc...
+Takes Heidelberg DICOM export files and metadata and opens a heyex style viewer allowing for bscan to enface marking with correct pixel to mm conversions.  Several regions can be separately marked allowing for EZ area mapping, multiple atrophy region mapping, detailed blood vessel mapping etc...
 Also have included some image enhancement features to aid feature selection in cases of difficult to see features.
 
 
