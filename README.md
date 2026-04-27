@@ -7,6 +7,10 @@ Windows local executable file containing program - see releases  ----->
 
 <br>
 
+v1.2 - 27/04/2026 - added ability to transfer enface markings back to bscans
+
+<br>
+
 v1.0 - 22/04/2026 - improved GUI, ability to add point and line features directly on the enface image. Added polygon centroid measurements and anatomical fovea marking so distance to feature (e.g. eccentric fixation or atrophic region or centre of EZ) position and distance can be determined.
 
 <br>
