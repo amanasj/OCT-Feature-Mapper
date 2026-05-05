@@ -5,6 +5,8 @@
 
 Windows local executable file containing locally run program - see releases  ----->
 
+Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
+
 <br>
 
 v1.2 - 27/04/2026 - added ability to transfer enface markings back to bscans
