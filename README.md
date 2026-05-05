@@ -3,7 +3,7 @@
 
 <br>
 
-OCT Feature Mapper is a Python tool for annotating, mapping, visualising, and exporting Heidelberg DICOM retinal optical coherence tomography image features.
+OCT Feature Mapper is a Python tool for annotating, mapping, visualising, and exporting Heidelberg DICOM retinal optical coherence tomography image features. This downloadable and locally run program vastly expands on the capabilities of the standard Heyex software.
 
 
 <br>
