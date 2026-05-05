@@ -3,7 +3,7 @@
 
 <br>
 
-Windows local executable file containing program - see releases  ----->
+Windows local executable file containing locally run program - see releases  ----->
 
 <br>
 
