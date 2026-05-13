@@ -16,14 +16,12 @@ Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
 
 v1.3 - 13/05/2026 - added further co-registration functionality
-
 v1.2 - 27/04/2026 - added ability to transfer enface markings back to bscans
-
 v1.0 - 22/04/2026 - improved GUI, ability to add point and line features directly on the enface image. Added polygon centroid measurements and anatomical fovea marking so distance to feature (e.g. eccentric fixation or atrophic region or centre of EZ) position and distance can be determined.
-
 v0.93 - 07/04/2026 - updated to add live move position in enface view, new GUI and experimentation with semi-automatic co-registration of multimodal imaging after features marked on enface view.
 
-<br>
+
+<br><br>
 
 
 Takes Heidelberg DICOM export files and metadata and opens a heyex style viewer allowing for bscan to enface marking with correct pixel to mm conversions.  Several regions can be separately marked allowing for EZ area mapping, multiple atrophy region mapping, detailed blood vessel mapping etc...
