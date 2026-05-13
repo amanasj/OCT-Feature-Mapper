@@ -15,6 +15,10 @@ Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 <br><br>
 
 
+v1.3 - 13/05/2026 - added further co-registration functionality
+
+<br>
+
 v1.2 - 27/04/2026 - added ability to transfer enface markings back to bscans
 
 <br>
