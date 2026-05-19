@@ -15,6 +15,7 @@ Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 <br><br>
 
 
+v1.5 - 19/05/2026 - better MAC support and added zoom function
 v1.4 - 13/05/2026 - added further co-registration functionality and MAC version app
 <br>
 v1.2 - 27/04/2026 - added ability to transfer enface markings back to bscans
