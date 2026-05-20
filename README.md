@@ -8,7 +8,7 @@ OCT Feature Mapper is a Python tool for annotating, mapping, visualising, and ex
 
 <br><br>
 
-Windows local executable file containing locally run program - see releases  ----->
+Windows (.exe) and MAC (.app) executable files containing locally run program - see releases  ----->
 
 Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
