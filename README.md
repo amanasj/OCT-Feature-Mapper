@@ -16,6 +16,8 @@ Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
 -------------------------------------------------------------------------------------------------------------------
 
+v1.9 - 27/05/2026 - added a semi-automated co-registration routine using vessel landmarking
+
 v1.7 - 20/05/2026 - added extra co-registration functionality, improved GUI and ability to save progress and edit later (by loading .json file) 
 
 v1.5 - 19/05/2026 - better MAC support and added zoom function
