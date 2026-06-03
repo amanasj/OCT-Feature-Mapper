@@ -42,7 +42,7 @@ Also have included some image enhancement features to aid feature selection in c
 
 <br>
 
-Full windows executable file for a local GUI to analyse images. See Releases in the right sidebar  --->
+Full windows or MAC executable file for a local GUI to analyse images. See Releases in the right sidebar  --->
 
 
 <br>
