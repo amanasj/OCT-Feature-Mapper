@@ -2,7 +2,8 @@
 
 <br>
 
-Please cite: DOI 10.5281/zenodo.20523548
+Please cite: 
+Josan, A. (2026). OCT feature Mapper. Zenodo. https://doi.org/10.5281/zenodo.20523549
 
 <br>
 
