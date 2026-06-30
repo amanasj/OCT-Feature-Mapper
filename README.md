@@ -64,3 +64,12 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 <img width="622" height="601" alt="feature_overlay" src="https://github.com/user-attachments/assets/5ce93992-7aa6-457b-a659-7960224239e0" />
 
+
+<br>
+
+
+<img width="817" height="671" alt="image" src="https://github.com/user-attachments/assets/19be1efd-e75d-4089-9d6b-647729808a47" />
+
+
+<br>
+
