@@ -88,3 +88,13 @@ Full windows or MAC executable file for a local GUI to analyse images. See Relea
 
 <br>
 
+
+
+<img width="1004" height="937" alt="image" src="https://github.com/user-attachments/assets/4fc726ff-b46b-49aa-882e-4e5c92002e1c" />
+
+
+
+<br>
+
+
+
