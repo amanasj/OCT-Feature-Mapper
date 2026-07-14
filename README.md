@@ -20,6 +20,8 @@ Or download from https://amanjosan.netlify.app/software/oct_feature_mapper/
 
 -------------------------------------------------------------------------------------------------------------------
 
+v2.3 - 14/07/2026 - added several new editing buttons in GUI
+
 v2.2 - 07/07/2026 - added semi-automatic layer segmentation
 
 v2.0 - 30/06/2026 - added manual marking of feature thickness on bscans with heatmap representation and 3D interactive volume map 
